@@ -17,5 +17,5 @@ I built this project to practice working with REST APIs, parsing JSON data, and 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/currency-converter.git](https://github.com/tquesss/currency-converter.git)
+   git clone https://github.com/tquesss/currency-converter.git
    cd currency-converter
